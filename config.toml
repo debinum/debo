@@ -1,0 +1,50 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "DEBINUM"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+BackgroundImages = [
+ "bg/background.jpg",
+ "bg/background2.jpg", 
+ "bg/background3.jpg"
+ ]
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "audio"
+tag = "audio"
+icon = "headphones"
+
+[[ params.nav ]]
+name = "video"
+tag = "video"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "development"
+tag = "development"
+icon = "edit"
+
+[[ params.nav ]]
+name = "social"
+tag = "social"
+icon = "retweet"

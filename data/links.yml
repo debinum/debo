@@ -1,0 +1,85 @@
+tiles:
+-
+  name: "github"
+  url: "https://github.com"
+  img: "logos/github.png"
+  tags: ["development"]
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+-
+  name: "google"
+  url: "https://google.com"
+  img: "logos/google.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["favorite", "search"]
+-
+  name: "etherscan"
+  url: "https://etherscan.io"
+  img: "logos/etherscan.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["explorer"]
+-
+  name: "bscscan"
+  url: "https://bscscan.com"
+  img: "logos/bscscan.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["explorer"]
+-
+  name: "heroku"
+  url: "https://heroku.com"
+  img: "logos/heroku.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["development"]
+-
+  name: "netlify"
+  url: "https://netlify.com"
+  img: "logos/netlify.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["development"]
+-
+  name: "wikipedia"
+  url: "https://wikipedia.org"
+  img: "logos/wikipedia.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["wiki"]
+-
+  name: "ebay"
+  url: "https://ebay.com"
+  img: "logos/ebay.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["shopping"]
+-
+  name: "twitter"
+  url: "https://twitter.com"
+  img: "logos/twitter.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["social"]
+-
+  name: "youtube"
+  url: "https://youtube.com"
+  img: "logos/youtube.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["video"]
+-
+  name: "netflix"
+  url: "https://netflix.com"
+  img: "logos/netflix.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["video"]
+-
+  name: "facebook"
+  url: "https://facebook.com"
+  img: "logos/facebook.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["social"]
