@@ -7,11 +7,11 @@ publishDir = "docs"
 
 [ params ]
 Favicon = "favicon.ico"
-BackgroundImages = [
- "bg/background.jpg",
- "bg/background2.jpg", 
- "bg/background3.jpg"
- ]
+#BackgroundImages = [
+# "bg/background.jpg",
+# "bg/background2.jpg", 
+# "bg/background3.jpg"
+# ]
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
@@ -37,7 +37,7 @@ icon = "headphones"
 [[ params.nav ]]
 name = "video"
 tag = "video"
-icon = "video-camera"
+icon = "film"
 
 [[ params.nav ]]
 name = "development"
@@ -48,3 +48,25 @@ icon = "edit"
 name = "social"
 tag = "social"
 icon = "retweet"
+
+[[ params.nav ]]
+name = "wiki"
+tag = "wiki"
+icon = "user"
+
+[[ params.nav ]]
+name = "blockchain"
+tag = "blockchain"
+icon = "cog"
+
+[[ params.nav ]]
+name = "messaging"
+tag = "messaging"
+icon = "signal"
+
+[[ params.nav ]]
+name = "downloads"
+tag = "downloads"
+icon = "download"
+
+

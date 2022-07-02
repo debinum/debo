@@ -2,7 +2,7 @@ tiles:
 -
   name: "github"
   url: "https://github.com"
-  img: "logos/github.png"
+  img: "logos/github.svg"
   tags: ["development"]
   txt_color: "#000000"
   bg_color: "#ffffff"
@@ -12,21 +12,21 @@ tiles:
   img: "logos/google.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["favorite", "search"]
+  tags: ["search"]
 -
   name: "etherscan"
   url: "https://etherscan.io"
   img: "logos/etherscan.svg"
   bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["explorer"]
+  txt_color: "#000000"
+  tags: ["blockchain"]
 -
   name: "bscscan"
   url: "https://bscscan.com"
   img: "logos/bscscan.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
-  tags: ["explorer"]
+  tags: ["blockchain"]
 -
   name: "heroku"
   url: "https://heroku.com"
@@ -83,3 +83,105 @@ tiles:
   bg_color: "#ffffff"
   txt_color: "#000000"
   tags: ["social"]
+-
+  name: "movieboxpro"
+  url: "https://movieboxpro.app"
+  img: "logos/movieboxpro.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["video"]
+-
+  name: "amazon"
+  url: "https://amazon.co.uk"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["shopping"]
+-
+  name: "uniswap"
+  url: "https://uniswap.org"
+  img: "logos/uniswap.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["blockchain"]
+-
+  name: "chrome"
+  url: "https://www.google.com/intl/en_uk/chrome/"
+  img: "logos/chrome.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["favorite"]
+-
+  name: "firefox"
+  url: "https://www.mozilla.org/en-GB/firefox/new/"
+  img: "logos/firefox.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["favorite"]
+-
+  name: "chromium"
+  url: "https://chromium.woolyss.com/download/"
+  img: "logos/chromium.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["favorite"]
+-
+  name: "apple music"
+  url: "https://music.apple.com/us/browse"
+  img: "logos/apple-music.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["audio"]
+-
+  name: "pancakeswap"
+  url: "https://pancakeswap.finance/"
+  img: "logos/pancakeswap.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain"]
+-
+  name: "sublime text"
+  url: "https://www.sublimetext.com"
+  img: "logos/sublime-text.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["development"]
+-
+  name: "visual studio code"
+  url: "https://code.visualstudio.com/"
+  img: "logos/visual-studio-code.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["development"]
+-
+  name: "gmail"
+  url: "https://mail.google.com/"
+  img: "logos/gmail.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["messaging"]
+-
+  name: "whatsapp"
+  url: "https://web.whatsapp.com/"
+  img: "logos/whatsapp.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["messaging"]
+-
+  name: "telegram"
+  url: "https://telegram.org/"
+  img: "logos/telegram.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["messaging"]
+-
+  name: "ubuntu"
+  url: "https://ubuntu.com/"
+  img: "logos/ubuntu.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+
+
+
+
