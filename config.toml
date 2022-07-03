@@ -7,11 +7,11 @@ publishDir = "docs"
 
 [ params ]
 Favicon = "favicon.ico"
-#BackgroundImages = [
-# "bg/background.jpg",
+BackgroundImages = [
+"bg/background.jpg"
 # "bg/background2.jpg", 
 # "bg/background3.jpg"
-# ]
+ ]
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
