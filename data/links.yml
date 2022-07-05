@@ -181,7 +181,34 @@ tiles:
   txt_color: "#000000"
   bg_color: "#ffffff"
   tags: ["downloads"]
-
+-
+  name: "linux mint"
+  url: "https://linuxmint.com/"
+  img: "logos/linux-mint.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+-
+  name: "windows 10"
+  url: "https://www.microsoft.com/en-gb/software-download/windows10ISO"
+  img: "logos/windows10.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+-
+  name: "windows 11"
+  url: "https://www.microsoft.com/en-gb/software-download/windows11"
+  img: "logos/windows11.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+-
+  name: "primeos"
+  url: "https://www.primeos.in/"
+  img: "logos/primeos.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
 
 
 
