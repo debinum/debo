@@ -20,21 +20,6 @@ tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
-name = "search"
-tag = "search"
-icon = "search"
-
-[[ params.nav ]]
-name = "shopping"
-tag = "shopping"
-icon = "shopping-basket"
-
-[[ params.nav ]]
-name = "audio"
-tag = "audio"
-icon = "headphones"
-
-[[ params.nav ]]
 name = "video"
 tag = "video"
 icon = "film"
@@ -57,12 +42,12 @@ icon = "user"
 [[ params.nav ]]
 name = "blockchain"
 tag = "blockchain"
-icon = "cog"
+icon = "qrcode"
 
 [[ params.nav ]]
 name = "messaging"
 tag = "messaging"
-icon = "signal"
+icon = "envelope"
 
 [[ params.nav ]]
 name = "downloads"
