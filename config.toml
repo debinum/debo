@@ -35,8 +35,8 @@ tag = "social"
 icon = "retweet"
 
 [[ params.nav ]]
-name = "wiki"
-tag = "wiki"
+name = "learn"
+tag = "learn"
 icon = "user"
 
 [[ params.nav ]]
