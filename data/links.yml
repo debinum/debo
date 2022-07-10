@@ -40,7 +40,7 @@ tiles:
   img: "logos/wikipedia.svg"
   bg_color: "#ffffff"
   txt_color: "#000000"
-  tags: ["wiki"]
+  tags: ["learn"]
 -
   name: "twitter"
   url: "https://twitter.com"
