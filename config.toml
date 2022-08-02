@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "DEBINUM"
+title = "DEBO"
 theme = "slate"
 
 publishDir = "docs"
