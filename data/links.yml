@@ -84,26 +84,26 @@ tiles:
   txt_color: "#000000"
   tags: ["blockchain"]
 -
-  name: "chrome"
+  name: "chrome browser"
   url: "https://www.google.com/intl/en_uk/chrome"
   img: "logos/chrome.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["favorite"]
+  tags: ["favorite", "downloads"]
 -
-  name: "firefox"
+  name: "firefox browser"
   url: "https://www.mozilla.org/en-GB/firefox/new"
   img: "logos/firefox.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["favorite"]
+  tags: ["favorite", "downloads"]
 -
-  name: "chromium"
+  name: "chromium browser"
   url: "https://chromium.woolyss.com/download"
   img: "logos/chromium.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["favorite"]
+  tags: ["favorite", "downloads"]
 -
   name: "pancakeswap"
   url: "https://pancakeswap.finance"
@@ -117,35 +117,35 @@ tiles:
   img: "logos/sublime-text.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["development"]
+  tags: ["development", "downloads"]
 -
   name: "visual studio code"
   url: "https://code.visualstudio.com"
   img: "logos/visual-studio-code.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["development"]
+  tags: ["development", "downloads"]
 -
   name: "gmail"
   url: "https://mail.google.com"
   img: "logos/gmail.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["messaging"]
+  tags: ["messaging", "social"]
 -
   name: "whatsapp"
   url: "https://web.whatsapp.com"
   img: "logos/whatsapp.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["messaging"]
+  tags: ["messaging", "social"]
 -
   name: "telegram"
   url: "https://telegram.org"
   img: "logos/telegram.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["messaging"]
+  tags: ["messaging", "social", "downloads"]
 -
   name: "ubuntu"
   url: "https://ubuntu.com"
@@ -159,7 +159,7 @@ tiles:
   img: "logos/linux-mint.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["downloads"]
+  tags: ["downloads", "favorite"]
 -
   name: "windows 10"
   url: "https://www.microsoft.com/en-gb/software-download/windows10ISO"
@@ -187,14 +187,221 @@ tiles:
   img: "logos/fydeos.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
+  tags: ["downloads", "favorite"]
+-
+  name: "coingecko"
+  url: "https://coingecko.com"
+  img: "logos/coingecko.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain"]
+-
+  name: "coinbase"
+  url: "https://coinbase.com"
+  img: "logos/coinbase.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain"]
+-
+  name: "metamask"
+  url: "https://metamask.io"
+  img: "logos/metamask.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain"]
+-
+  name: "infura"
+  url: "https://infura.io"
+  img: "logos/infura.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain", "development"]
+-
+  name: "amazon"
+  url: "https://amazon.co.uk"
+  img: "logos/amazon.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["shopping"]
+-
+  name: "apple music"
+  url: "https://www.apple.com/uk/apple-music"
+  img: "logos/apple-music.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["music", "downloads"]
+-
+  name: "google"
+  url: "https://google.com"
+  img: "logos/google.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["search"]
+-
+  name: "ebay"
+  url: "https://ebay.co.uk"
+  img: "logos/ebay.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["shopping"]
+-
+  name: "vlc"
+  url: "https://vlc.org"
+  img: "logos/vlc.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads", "video"]
+-
+  name: "zeronet"
+  url: "https://zeronet.io"
+  img: "logos/zeronet.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads", "blockchain", "development"]
+-
+  name: "accuweather"
+  url: "https://www.accuweather.com"
+  img: "logos/accuweather.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["weather"]
+-
+  name: "react"
+  url: "https://reactjs.org"
+  img: "logos/react.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["learn", "development"]
+-
+  name: "duckduckgo"
+  url: "https://duckduckgo.com"
+  img: "logos/duckduckgo.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["search"]
+-
+  name: "brave"
+  url: "https://brave.com/download"
+  img: "logos/brave.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads", "favorite", "blockchain"]
+-
+  name: "outlook"
+  url: "https://outlook.com"
+  img: "logos/outlook.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["messaging", "social"]
+-
+  name: "go"
+  url: "https://go.dev"
+  img: "logos/go.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["favorite", "downloads", "development", "learn"]
+-
+  name: "mega"
+  url: "https://mega.io"
+  img: "logos/mega.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["cloud", "downloads"]
+-
+  name: "oracle cloud"
+  url: "https://oracle.com/cloud"
+  img: "logos/oci.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["cloud", "development", "favorite"]
+-
+  name: "spotify"
+  url: "https://spotify.com"
+  img: "logos/spotify.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["music"]
+-
+  name: "playstation store"
+  url: "https://store.playstation.com/"
+  img: "logos/playstation.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["gaming"]
+-
+  name: "comodo"
+  url: "https://cdn.download.comodo.com/cis/download/installs/2000/standalone/cispremium_installer.exe"
+  img: "logos/comodo.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
   tags: ["downloads"]
-
-
-
-
-
-
-
-
-
-
+-
+  name: "messenger"
+  url: "https://messenger.com"
+  img: "logos/facebookmessenger.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "messaging"]
+-
+  name: "binance"
+  url: "https://www.binance.com/en/download"
+  img: "logos/binance.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain", "downloads"]
+-
+  name: "tor browser"
+  url: "https://www.torproject.org/download"
+  img: "logos/tor.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads", "favorite"]
+-
+  name: "amazon alexa"
+  url: "https://alexa.amazon.com"
+  img: "logos/amazonalexa.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "music"]
+-
+  name: "coda.io"
+  url: "https://coda.io"
+  img: "logos/coda.io.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "development", "messaging"]
+-
+  name: "imdb"
+  url: "https://imdb.com"
+  img: "logos/imdb.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "learn"]
+-
+  name: "tether token"
+  url: "https://tether.to/en/"
+  img: "logos/usdt.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "music"]
+-
+  name: "xda developers"
+  url: "https://www.xda-developers.com"
+  img: "logos/xda.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["social", "development"]
+-
+  name: "centos"
+  url: "https://www.centos.org/download"
+  img: "logos/centos.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+-
+  name: "onedrive"
+  url: "https://onedrive.live.com"
+  img: "logos/onedrive.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["cloud", "downloads"]

@@ -8,7 +8,7 @@ publishDir = "docs"
 [ params ]
 Favicon = "favicon.ico"
 BackgroundImages = [
-"bg/background.jpg"
+"bg/background2.jpg"
 # "bg/background2.jpg", 
 # "bg/background3.jpg"
  ]
@@ -53,5 +53,38 @@ icon = "envelope"
 name = "downloads"
 tag = "downloads"
 icon = "download"
+
+[[ params.nav ]]
+name = "shopping"
+tag = "shopping"
+icon = "globe"
+
+[[ params.nav ]]
+name = "music"
+tag = "music"
+icon = "music"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "weather"
+tag = "weather"
+icon = "cloud"
+
+[[ params.nav ]]
+name = "cloud"
+tag = "cloud"
+icon = "save"
+
+[[ params.nav ]]
+name = "gaming"
+tag = "gaming"
+icon = "gamepad"
+
+
+
 
 
