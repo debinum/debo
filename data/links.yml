@@ -383,7 +383,7 @@ tiles:
   img: "logos/usdt.svg"
   txt_color: "#000000"
   bg_color: "#ffffff"
-  tags: ["social", "music"]
+  tags: ["blockchain", "development"]
 -
   name: "xda developers"
   url: "https://www.xda-developers.com"
@@ -405,3 +405,45 @@ tiles:
   txt_color: "#000000"
   bg_color: "#ffffff"
   tags: ["cloud", "downloads"]
+-
+  name: "microbitcoin"
+  url: "https://microbitcoin.org"
+  img: "logos/mbc.png"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["blockchain", "downloads"]
+-
+  name: "bing"
+  url: "https://bing.com"
+  img: "logos/bing.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["search"]
+-
+  name: "udemy"
+  url: "https://udemy.com"
+  img: "logos/udemy.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["learn", "development"]
+-
+  name: "macos x"
+  url: "https://gitlab.com/julianfairfax/macos-downloader"
+  img: "logos/macos.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["downloads"]
+-
+  name: "solidity"
+  url: "https://soliditylang.org"
+  img: "logos/solidity.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["learn", "downloads", "blockchain"]
+-
+  name: "bootstrap"
+  url: "https://getbootstrap.com"
+  img: "logos/bootstrap.svg"
+  txt_color: "#000000"
+  bg_color: "#ffffff"
+  tags: ["learn", "development"]
