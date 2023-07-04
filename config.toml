@@ -8,10 +8,11 @@ publishDir = "docs"
 [ params ]
 Favicon = "favicon.ico"
 BackgroundImages = [
-"bg/background2.jpg"
+# "bg/background.jpg"
 # "bg/background2.jpg", 
 # "bg/background3.jpg"
  ]
+BackgroundStyle = "radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);"
 OpenLinksInNewWindow = true
 
 [[ params.nav ]]
@@ -20,34 +21,29 @@ tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
-name = "video"
-tag = "video"
+name = "entertainment"
+tag = "entertainment"
 icon = "film"
 
 [[ params.nav ]]
 name = "development"
 tag = "development"
-icon = "edit"
+icon = "pencil"
 
 [[ params.nav ]]
 name = "social"
 tag = "social"
-icon = "retweet"
+icon = "comment"
 
 [[ params.nav ]]
 name = "learn"
 tag = "learn"
-icon = "user"
+icon = "book"
 
 [[ params.nav ]]
 name = "blockchain"
 tag = "blockchain"
-icon = "qrcode"
-
-[[ params.nav ]]
-name = "messaging"
-tag = "messaging"
-icon = "envelope"
+icon = "key"
 
 [[ params.nav ]]
 name = "downloads"
@@ -57,12 +53,7 @@ icon = "download"
 [[ params.nav ]]
 name = "shopping"
 tag = "shopping"
-icon = "globe"
-
-[[ params.nav ]]
-name = "music"
-tag = "music"
-icon = "music"
+icon = "shopping-basket"
 
 [[ params.nav ]]
 name = "search"
@@ -70,21 +61,6 @@ tag = "search"
 icon = "search"
 
 [[ params.nav ]]
-name = "weather"
-tag = "weather"
-icon = "cloud"
-
-[[ params.nav ]]
 name = "cloud"
 tag = "cloud"
-icon = "save"
-
-[[ params.nav ]]
-name = "gaming"
-tag = "gaming"
-icon = "gamepad"
-
-
-
-
-
+icon = "cloud"
